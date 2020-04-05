@@ -1,5 +1,12 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# TO DO LIST
+
+<div align="center"><img width="500px" src="src/Capture d’écran 2020-04-05 à 17.46.54.png" /></div>
+
+Project without database or user-signUp.
+A BackEnd project exist though, please see  : https://github.com/julielesage/to-do-list_backend
+
 ## Available Scripts
 
 In the project directory, you can run:
